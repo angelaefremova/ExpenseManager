@@ -1,4 +1,3 @@
-# Lab Professor: Ms.Laily Ajellu
 import sqlite3
 
 from functions import *
